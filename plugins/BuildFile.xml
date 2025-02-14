@@ -10,6 +10,7 @@
 <use name="RecoVertex/KalmanVertexFit"/>
 <use name="TrackingTools/Records"/>
 <use name="TrackingTools/IPTools"/>
+
 <flags EDM_PLUGIN="1"/>
 <export>
   <lib name="1"/>
